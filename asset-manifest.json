@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/attendance-management-portal/static/css/main.168ed977.css",
+    "main.js": "/attendance-management-portal/static/js/main.9fe7ad43.js",
+    "static/js/453.92d80d59.chunk.js": "/attendance-management-portal/static/js/453.92d80d59.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/attendance-management-portal/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/mrsingh.png": "/attendance-management-portal/static/media/mrsingh.314fae08936dd8862c69.png",
+    "static/media/fontawesome-webfont.eot": "/attendance-management-portal/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/attendance-management-portal/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/attendance-management-portal/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/attendance-management-portal/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/attendance-management-portal/index.html",
+    "main.168ed977.css.map": "/attendance-management-portal/static/css/main.168ed977.css.map",
+    "main.9fe7ad43.js.map": "/attendance-management-portal/static/js/main.9fe7ad43.js.map",
+    "453.92d80d59.chunk.js.map": "/attendance-management-portal/static/js/453.92d80d59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.168ed977.css",
+    "static/js/main.9fe7ad43.js"
+  ]
+}
