@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/host_attendance_management/static/css/main.2dbcf9c3.css",
-    "main.js": "/host_attendance_management/static/js/main.1f8b76ea.js",
+    "main.js": "/host_attendance_management/static/js/main.acc7694d.js",
     "static/js/453.92d80d59.chunk.js": "/host_attendance_management/static/js/453.92d80d59.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/host_attendance_management/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/mrsingh.png": "/host_attendance_management/static/media/mrsingh.314fae08936dd8862c69.png",
@@ -11,11 +11,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/host_attendance_management/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/host_attendance_management/index.html",
     "main.2dbcf9c3.css.map": "/host_attendance_management/static/css/main.2dbcf9c3.css.map",
-    "main.1f8b76ea.js.map": "/host_attendance_management/static/js/main.1f8b76ea.js.map",
+    "main.acc7694d.js.map": "/host_attendance_management/static/js/main.acc7694d.js.map",
     "453.92d80d59.chunk.js.map": "/host_attendance_management/static/js/453.92d80d59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dbcf9c3.css",
-    "static/js/main.1f8b76ea.js"
+    "static/js/main.acc7694d.js"
   ]
 }
